@@ -14,11 +14,11 @@
 gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whats', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6289677763976'] // Put your number here //owner eval
-global.kontak = ['6289677763976','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/KTmU4Hoj437BX4fWpXTnpF', 'https://chat.whatsapp.com/KTmU4Hoj437BX4fWpXTnpF'] // ganti jadi group lu
+global.owner = ['6283869803330'] // Put your number here //owner eval
+global.kontak = ['6283869803330','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6289677763976'] // Premium user has unlimited limit
+global.prems = ['6289677763'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -45,22 +45,22 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namagithub = 'GAK AD :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'Raditya'
-namakontak2 = 'Raditya'
+namakontak1 = 'VERDI BOTZ'
+namakontak2 = 'VERDI BOTZ'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By Raditya' // ganti aja
-global.author = 'Raditya' // ganti aja
+global.packname = 'By Verdi' // ganti aja
+global.author = 'Verdi' // ganti aja
 
 //yyy
-bc = 'RFK' //RFK Broadcast
-footer = '\n©RadBotZ'
-namabot = 'Radbot'
-namalu = 'Raditya'
+bc = 'VERDI' //VERDI Broadcast
+footer = '\nVERDIBOTZ'
+namabot = 'VERDI BOTZ'
+namalu = 'VERDI'
 
 
 // 
